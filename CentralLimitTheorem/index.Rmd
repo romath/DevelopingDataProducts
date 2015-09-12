@@ -50,7 +50,7 @@ Now, we calculate the sample mean and sample variance:
 mean(sample$sample)
 var(sample$sample)
 ```
-A consequence of the CLT is that the mean and variance of the random variable given by the average are approximated by:
+A consequence of the CLT is that the mean and variance of the random variable given by the average are approximated by
 
 $$\mu = 1/\lambda = 1/0.2 = 5\quad\text{and}\quad\sigma^2/n = 25/40 = 0.625$$
 
