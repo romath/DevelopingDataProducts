@@ -5,4 +5,4 @@
 
 ## Slidify
 
-* presentation
+* Central Limit Theorem
